@@ -1,0 +1,17 @@
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.csproj.AssemblyReference.cache
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.AssemblyInfoInputs.cache
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.AssemblyInfo.cs
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.csproj.CoreCompileInputs.cache
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.exe
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.deps.json
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.runtimeconfig.json
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.dll
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.pdb
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactM.30CBC4AA.Up2Date
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.dll
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\refint\ContactManager.dll
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.pdb
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.genruntimeconfig.cache
+D:\USER\Desktop\C#\20241129\ContactManager\ContactManager\obj\Debug\net8.0\ref\ContactManager.dll
